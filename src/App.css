@@ -1,0 +1,25 @@
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+.data-container{
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+  margin-bottom: 50px;
+  width: 70%;
+  border-radius: 15px;
+
+
+}
+.title-container{
+  text-align: center
+
+}
+.body-container{
+  display: flex;
+}
+.id-container{
+  margin-right: 5px;
+}
